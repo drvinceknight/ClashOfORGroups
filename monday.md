@@ -15,7 +15,10 @@ Suggestion:
 
 ### 1400: Discussions (in same room)
 
-Everyone invited so to speak.
-Possible joint work?
+Everyone invited so to speak:
+
+- Further discuss work
+- Discuss/share technical tools
+- Possible joint work?
 
 ### 1600: Close
