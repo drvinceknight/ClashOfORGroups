@@ -2,24 +2,17 @@
 
 Suggestion:
 
-### 1000: Meet over coffee (Someone needs to book a room)
-### 1030: Mini symposium A
+### AM
+
+Our guests arrive.
+
+### 1230: Lunch
+### 1400: Mini symposium
 
 - Bruno
 - Jason
 - Gréanne
 - Geraint
 - Nardo
-
-### 1230: Lunch
-
-### 1400: Discussions (in same room)
-
-Everyone invited so to speak:
-
-- Further discuss work
-- Discuss/share technical tools
-- Possible joint work?
-- Opportunity for the MSc students to discuss plans
 
 ### 1600: Close
