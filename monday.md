@@ -20,5 +20,6 @@ Everyone invited so to speak:
 - Further discuss work
 - Discuss/share technical tools
 - Possible joint work?
+- Opportunity for the MSc students to discuss plans
 
 ### 1600: Close
