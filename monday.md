@@ -6,7 +6,7 @@ Suggestion:
 
 Our guests arrive.
 
-### 1230: Lunch
+### 1230: Lunch at Aberdare Hall
 ### 1400: Mini symposium
 
 - Bruno
