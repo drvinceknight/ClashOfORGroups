@@ -10,6 +10,7 @@ Our guests arrive.
 ### 1400: Mini symposium
 
 - Bruno
+- Thomas
 - Jason
 - Gréanne
 - Geraint
