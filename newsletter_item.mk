@@ -1,0 +1,5 @@
+# A Visit by Four PhD Students from Twente
+
+Last week (13th - 17th April) we were pleased to welcome four PhD students from Twente University in the Netherlands as guests. All four students, Nardo Borgman, Bruno Vieira, Gréanne Leeftink and Thomas Schneider are working on improving the healthcare system using operational research at various hospitals throughout the Netherlands. The visit brought opportunities to discuss research topics and exchange ideas with PhD students and researchers from Cardiff. There was also an organised visit to the ABCi at Caerleon to see first hand how OR and modelling is being implemented in healthcare here in South Wales.
+
+All participants, both from Cardiff and Twente, enjoyed the visit and found discussions inspiring. On the Wednesday we were joined by more students from across the UK and Europe in a Data Mining course held at the School of Mathematics. There was also oppotunities for two MSc students, Josh Pearce and Samuel Luen-English, who will be undertaking their masters project at Twente, to discuss their projects and Dutch culture with our visitors.
